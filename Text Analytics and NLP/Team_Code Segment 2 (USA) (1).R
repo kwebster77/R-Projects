@@ -16,10 +16,8 @@ library(stringr)
 library(tidyr)
 
 ##Karley's Access: 
-connection_string <- 'mongodb+srv://team11:team11@cluster0.zefbg.mongodb.net/Cluster0?retryWrites=true&w=majority'
-airbnb_collection <- mongo(collection="listingsAndReviews", db="sample_airbnb", url=connection_string)
-airbnb_all <- airbnb_collection$find()
-as.data.frame(airbnb_all)
+connection_string <- MongoDb access
+
 
 ######Cleaning the data#########  
 #######By Language 
