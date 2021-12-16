@@ -1,7 +1,6 @@
 ##### Class: Text Analytics and Natural Language Processing 
 ##### Karley Webster
 ##### MBAN1 HULT 2021
-##### Exam Questions 
 ##### Version 1.0
 
 #libraries 
